@@ -1,2 +1,1 @@
-# DarkModeNextia
-Created with CodeSandbox
+# Dark Mode Coding Challenge 🌙 &nbsp; ![medium]
